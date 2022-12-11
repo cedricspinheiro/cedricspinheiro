@@ -10,7 +10,7 @@
 
 - 🤝 Procuro ajuda com o projeto [Site-CTR](https://github.com/cedricspinheiro/Site-CTR)
 
-- 👨‍💻 Todos os meus projetos estao disponivel emAll of my projects are available at [https://github.com/cedricspinheiro](https://github.com/cedricspinheiro)
+- 👨‍💻 Todos os meus projetos estao disponivel em [https://github.com/cedricspinheiro](https://github.com/cedricspinheiro)
 
 - 📝 Escrevo regularmente no Site: [https://github.com/cedricspinheiro](https://github.com/cedricspinheiro)
 
