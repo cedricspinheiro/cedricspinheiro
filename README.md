@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cedricspinheiro&label=Profile%20views&color=0e75b6&style=flat" alt="cedricspinheiro" /> </p>
 
-- 🔭 No momento estou trabalhando no Projeto [Site CTR Reaprendendo a Viver](https://github.com/cedricspinheiro/Site-CTR)
+- 🔭 No momento estou trabalhando no Projeto [Curso Senac Minas Programador de Sistemas](https://github.com/cedricspinheiro/Senac-Minas)
 
 - 🌱 Atualmente estou estudando pelo **Workover: https://alunos.workover.com.br/resume-print/51675**
 
